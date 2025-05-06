@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">PrimeiroApp</string>
-    <string name="hello_word">Hello Word!</string>
+    <string name="initial_text">Welcome! This app was designed to provide a personalized experience, adapting to your language and preferences. We hope you enjoy all the features available!</string>
 </resources>

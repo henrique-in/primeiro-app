@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrimeiroApp</string>
+    <string name="initial_text">¡Bienvenido! Esta aplicación fue desarrollada para ofrecer una experiencia personalizada, adaptándose a tu idioma y preferencias. ¡Esperamos que disfrutes de todas las funciones disponibles!</string>
+
+
+</resources>

@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">PrimeiroApp</string>
-    <string name="hello_word">Olá, mundo!</string>
+    <string name="initial_text">Bem-vindo! Este aplicativo foi desenvolvido para oferecer uma experiência personalizada, adaptando-se ao seu idioma e preferências. Esperamos que aproveite todos os recursos disponíveis!</string>
 </resources>
